@@ -1,7 +1,7 @@
 # SimpleFF Binaries
 
 A collection of FFmpeg binaries (ffmpeg and ffprobe) for use with
-[SimpleFF](https://github.com/seanyeh/SimpleFF), a easy-to-use cross-platform
+[SimpleFF](https://github.com/seanyeh/SimpleFF), an easy-to-use cross-platform
 GUI frontend for FFmpeg.
 
 
